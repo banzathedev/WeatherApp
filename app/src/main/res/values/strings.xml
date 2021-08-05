@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WhereIsTheSunApp</string>
+    <string name="error_message_something_went_wrong">Something went wrong</string>
 </resources>
