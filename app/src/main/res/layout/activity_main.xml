@@ -236,7 +236,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="10dp" />
             <LinearLayout
-                android:id="@+id/detailsContainer"
+                android:id="@+id/detailsContainer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -362,7 +362,7 @@
                 </LinearLayout>
                 <Space
                     android:layout_width="wrap_content"
-                    android:layout_height="10dp"
+                    android:layout_height="10dp" />
             </LinearLayout>
         </LinearLayout>
 
@@ -380,6 +380,6 @@
         android:textColor="@color/white"
         android:visibility="gone"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </RelativeLayout>
